@@ -11,3 +11,18 @@ The main goal of the project is to establish a wireless internet connection thro
 - 14 Gauge Bare Copper Wire
 - 74 Grams of PLA Pilament
 - 5" Diameter Circular Tin Plate
+
+# Design Criteria
+- Antenna must be stackable in order to adjust the number of turns to match the desired gains
+- Design must be affordable 3d printable; low pliament consumption and compact size
+- Antenna design must be open source
+
+# Design Process
+input prelim sketches, cad screenshots, and final printed assembly
+
+# Testing
+input pictures of helical antenna connected with a wifi card and ss of jetson nano recieving wifi signal
+Brief explanation of the results of testing
+
+# Conclusion
+if needed
