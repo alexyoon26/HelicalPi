@@ -3,6 +3,7 @@
 # Introduction
 The main goal of the project is to establish a wireless internet connection through helical antenna, which produces a circular polarized pattern of RF radiation. A custom designed, stackable form of helical antenna was 3D printed in place of the conventional wireless antenna. 
 
+ADD PICTURE OF ASSEMBLED ANTENNA
 
 # Components/Materials Used
 - Nvidia Jetson Nano 2GB
