@@ -6,7 +6,7 @@ The main goal of the project is to establish a wireless internet connection thro
 ADD PICTURE OF ASSEMBLED ANTENNA
 
 # Components/Materials Used
-- Nvidia Jetson Nano 2GB
+- Nvidia Jetson Xavier AGX
 - Intel Dual Band Wireless-AC 8265 Card
 - SMA Panel Mount Connector
 - 14 Gauge Bare Copper Wire
