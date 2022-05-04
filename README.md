@@ -52,7 +52,7 @@ Four antenna module was 3D printed using black PLA pilament, and SMA connection 
 </p>
 
 # Testing
-Testing of the helical antenna was conducted using a portable network analyzer rated 11 GHz and a Jetson Xavier AGX with a M.2 Wireless Card installed. The network analyzer was calibrated then displayed the Standing Wave Ratio (SWR) and the S-Parameter of the helical antenna.
+Testing of the helical antenna was conducted using a portable network analyzer rated 11 GHz and a Jetson Xavier AGX with a M.2 wireless card installed. The network analyzer was calibrated then displayed the Standing Wave Ratio (SWR) and the S-Parameter of the helical antenna.
 
 ***SWR Graph Display (left) and S-Parameter Graph Display (right):***
 <p align="center" width="100%">
