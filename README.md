@@ -28,11 +28,11 @@ The engineering design process was completed with the following criterias in min
 # Design Process
 Preliminary design process began with calculating the required dimensions of the desired antenna output. 
 Having set the desired center frequency set to 2.45 Ghz (with 4 helical turns and 0.25 wavelength between turns), calculation methods yielded the following results:
-- Center Frequency: **2.45 GHz**
-- Wavelength: **0.12236427 m**
-- Diameter: **3.89695127 cm**
-- Expected Gain: **10.8 dBi**
-- Half Power Bandwith: **52 degrees**
+- Center Frequency (f): **2.45 GHz**
+- Wavelength (Lambda): **0.12236427 m**
+- Diameter (D): **3.89695127 cm**
+- Expected Gain (G): **10.8 dBi**
+- Half Power Beamwidth (HPBW): **52 degrees**
 - Effective Apperature: **0.01433242 m^2**
 
 Displayed below is a preliminary design sketch following the calculation results:
