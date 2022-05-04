@@ -52,7 +52,37 @@ Four antenna module was 3D printed using black PLA pilament, and SMA connection 
 </p>
 
 # Testing
+Testing of the helical antenna was conducted using a portable network analyzer rated 11 GHz and a Jetson Xavier AGX with a M.2 Wireless Card installed. The network analyzer was calibrated then displayed the Standing Wave Ratio (SWR) and the S-Parameter of the helical antenna.
 
+***SWR Graph Display (left) and S-Parameter Graph Display (right):***
+<p align="center" width="100%">
+    <img width="45%" src="/assets/SWR.jpg"> 
+    <img width="47%" src="/assets/s11.jpg"> 
+</p>
 
+The network analyzer results show that helical antenna is centered around ***2.6GHz***, rather than the desired 2.4GHz range. It has also shown a SWR of 1.229 and antenna gain of 20 dBi. Possible explanations for such result are:
+- Effect of material of the 3D printed component (PLA)
+- Difference in actual diameter of the Helix due to wire deformation
+- Difference in actual diameter of the Helix due to design fault
+
+Further testing was done by connecting the antenna to the Jetson's AC8265 Wireless Card, then performing an online network speed test. Speed test was performed on https://www.speedtest.net/ and the result was compared with stock and no antenna installed.
+
+***Helical Antenna:***
+<p align="center" width="100%">
+    <img width="45%" src="/assets/helicpic.jpg"> 
+    <img width="47%" src="/assets/helicspeed.PNG"> 
+</p>
+
+***Stock Antenna:***
+<p align="center" width="100%">
+    <img width="45%" src="/assets/SWR.jpg"> 
+    <img width="47%" src="/assets/s11.jpg"> 
+</p>
+
+***No Antenna:***
+<p align="center" width="100%">
+    <img width="45%" src="/assets/SWR.jpg"> 
+    <img width="47%" src="/assets/s11.jpg"> 
+</p>
 # Comments
 if needed
