@@ -9,7 +9,7 @@ The main goal of the project is to establish a wireless internet connection thro
   <img src="/assets/helical.jpg" width="500" height="650">
 </p>
 
-CAD files (.STLPRT) and 3D Print files (.STL, .3dm) can be downloaded from ***HelicalWiFi/CAD*** folder
+CAD files (.STLPRT) and 3D Print files (.STL, .3dm) can be downloaded from ***alexyoon26/HelicalWiFi/CAD*** folder
 
 # Components/Materials Used
 - Nvidia Jetson Xavier AGX
