@@ -84,6 +84,3 @@ Further testing was conducted by connecting the antenna to the Jetson's AC8265 W
     <img width="40%" src="/assets/nopic.jpg"> 
     <img width="55%" src="/assets/nonespeed.png"> 
 </p>
-
-# Comments
-if needed
