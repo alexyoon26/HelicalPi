@@ -65,24 +65,25 @@ The network analyzer results show that helical antenna is centered around ***2.6
 - Difference in actual diameter of the Helix due to wire deformation
 - Difference in actual diameter of the Helix due to design fault
 
-Further testing was done by connecting the antenna to the Jetson's AC8265 Wireless Card, then performing an online network speed test. Speed test was performed on https://www.speedtest.net/ and the result was compared with stock and no antenna installed.
+Further testing was conducted by connecting the antenna to the Jetson's AC8265 Wireless Card, then performing an online network speed test. Speed test was performed on https://www.speedtest.net/ and the result was compared with stock and no antenna installed.
 
 ***Helical Antenna:***
 <p align="center" width="100%">
-    <img width="45%" src="/assets/helicpic.jpg"> 
-    <img width="47%" src="/assets/helicspeed.PNG"> 
+    <img width="40%" src="/assets/helicpic.jpg"> 
+    <img width="55%" src="/assets/helicspeed.png"> 
 </p>
 
 ***Stock Antenna:***
 <p align="center" width="100%">
-    <img width="45%" src="/assets/SWR.jpg"> 
-    <img width="47%" src="/assets/s11.jpg"> 
+    <img width="40%" src="/assets/normpic.jpg"> 
+    <img width="55%" src="/assets/normspeed.png"> 
 </p>
 
 ***No Antenna:***
 <p align="center" width="100%">
-    <img width="45%" src="/assets/SWR.jpg"> 
-    <img width="47%" src="/assets/s11.jpg"> 
+    <img width="40%" src="/assets/nopic.jpg"> 
+    <img width="55%" src="/assets/nonespeed.png"> 
 </p>
+
 # Comments
 if needed
