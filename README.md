@@ -1,10 +1,12 @@
 # HelicalWiFi: A Helical Antenna for 2.4Ghz Wireless Connections
 
+> ***CMU 18-358 Final Project by Alex Yoon***
+
 # Introduction
 The main goal of the project is to establish a wireless internet connection through helical antenna, which produces a circular polarized pattern of RF radiation. A custom designed, stackable form of helical antenna was 3D printed in place of the conventional wireless antenna. 
 
 <p align="center">
-  <img src="/assets/helical.jpg" width="500" height="600">
+  <img src="/assets/helical.jpg" width="500" height="650">
 </p>
 
 # Components/Materials Used
@@ -24,8 +26,7 @@ The main goal of the project is to establish a wireless internet connection thro
 input prelim sketches, cad screenshots, and final printed assembly
 
 # Testing
-input pictures of helical antenna connected with a wifi card and ss of jetson nano recieving wifi signal
-Brief explanation of the results of testing
+
 
 # Conclusion
 if needed
