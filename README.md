@@ -26,7 +26,10 @@ The engineering design process was completed with the following criterias in min
 - Antenna design must be open source
 
 # Design Process
-Preliminary design process began with calculating the required dimensions of the desired antenna output. 
+Preliminary design process began with calculating the required dimensions of the desired antenna output. The following formulas were used:
+
+- Gain: 
+
 Having set the desired center frequency set to 2.45 Ghz (with 4 helical turns and 0.25 wavelength between turns), calculation methods yielded the following results:
 - Center Frequency (f): **2.45 GHz**
 - Wavelength (Lambda): **0.12236427 m**
