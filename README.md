@@ -27,8 +27,11 @@ The engineering design process was completed with the following criterias in min
 
 # Design Process
 Preliminary design process began with calculating the required dimensions of the desired antenna output. The following formulas were used:
-
-- Gain: 
+<p align="center" width="100%">
+    <img width="35%" src="/assets/calc.jpg"> 
+    <img width="19.85%" src="/assets/formula.png"> 
+    <img width="33.5%" src="/assets/formula2.png"> 
+</p>
 
 Having set the desired center frequency set to 2.45 Ghz (with 4 helical turns and 0.25 wavelength between turns), calculation methods yielded the following results:
 - Center Frequency (f): **2.45 GHz**
